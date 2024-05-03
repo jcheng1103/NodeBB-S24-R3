@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; 
 
 module.exports = require('../public/src/modules/helpers.common')(
     require('./utils'),
